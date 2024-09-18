@@ -10,7 +10,7 @@
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "geoip-lite": "^1.4.2",
     "helmet": "^6.0.1",
     "joi": "^17.4.0",
